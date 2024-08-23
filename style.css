@@ -116,6 +116,7 @@ p {
 
 .card-heading {
   color: var(--color-very-dark-blue);
+  font-size: 1.3rem;
 }
 
 .card-red {
